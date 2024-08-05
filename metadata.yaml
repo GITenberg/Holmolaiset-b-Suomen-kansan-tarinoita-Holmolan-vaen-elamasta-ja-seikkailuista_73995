@@ -1,0 +1,42 @@
+_repo: Holmolaiset-b-Suomen-kansan-tarinoita-Holmolan-vaen-elamasta-ja-seikkailuista_73995
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nuorteva, Väinö Albert
+    aliases:
+    - Nuorteva, Vaino Albert
+    - Olli
+    birthdate: 1889
+    deathdate: 1967
+    gutenberg_agent_id: '57179'
+    url: http://www.gutenberg.org/2009/agents/57179
+    wikipedia: https://fi.wikipedia.org/wiki/Olli_(pakinoitsija)
+description: ''
+gutenberg_issued: '2024-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73995'
+  lccn: ltf91063490
+language: fi
+pgterms:marc905: 20240625010855author
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bSKS, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Finland'
+- !lcsh 'Tales -- Finland'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Hölmöläisille kasvaa kitkerää suolaa -- Akat uivat ja koukero peto
+  syö ruislaihoa -- Uskottu mies varastaa myllynkiven -- Hölmöläiset löytävät sopimattomasti
+  käyttäytyvän räätälimestarin -- Jauhattajat seikkailevat järvellä -- Hölmöläiset
+  pyydystävät monenkaltaista riistaa -- Hölmölän akat touhuissaan -- Hölmölän miehet
+  lähtevät kaupunkiin -- Hölmöläiset rakentavat käräjätuvan -- Hölmöläiset löytävät
+  jalkansa ja puunoksalla-istuja luulee kuolleensa -- Hiirikoira saa aikaan suuren
+  hämmingin.
+title: 'Hölmöläiset : $b Suomen kansan tarinoita Hölmölän väen elämästä ja seikkailuista'
+url: http://www.gutenberg.org/ebooks/73995
